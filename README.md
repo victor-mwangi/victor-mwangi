@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello there 👋 
+I am a Software Engineer with experience in cloud computing, virtualization and
+container technologies, automation of development workflow and deployments
+through CI/CD.
+
+Feel free to explore and reach out if you have any questions or collaboration ideas.
+
+Glad you stopped by! 😄
 
 <!--
 **victor-mwangi/victor-mwangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
